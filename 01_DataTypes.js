@@ -1,2 +1,2 @@
 console.log("GYAN")
-console.log(3 + 3)
+console.log(3 + 88)
