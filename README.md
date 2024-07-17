@@ -1,3 +1,3 @@
-# JavaScript_For_Backend
+#js-hindi
 Learn Javascript from scratch
 
